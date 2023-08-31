@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Praneeth and I'm a UG Student from Nalla Malla Reddy College</h2>
+<h2 align="left">Hi 👋! My name is Praneeth and I'm a UG Student in Nalla Malla Reddy College</h2>
 
 ###
 
